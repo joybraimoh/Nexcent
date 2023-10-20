@@ -1,0 +1,283 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    width:155px;
+}
+nav ul li{
+    list-style: none;
+    color: black;
+}
+.login{
+    background-color: 
+    #F5F7FA;
+    color: #4CAF4F;
+    padding: 
+    10px 20px 10px 20px;
+    border: none;
+    border-radius: 6px;
+}
+.signup{
+     background-color: #4CAF4F;
+     color: white;
+     padding:
+     10px 20px 10px 20px;
+     border: none;
+        border-radius: 6px;
+        margin-left: 5px;
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #F5F7FA;
+        padding:  96px 144px 96px 144px;
+    }
+    nav ul{
+        display: flex;
+        gap: 15px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .sectionA{
+        display: flex;
+        gap: 250px;
+        margin-top: 0px;
+        background-color: #F5F7FA;
+        padding: 
+        96px 144px 96px 144px;
+    }
+    .illustrationA{
+        width: 391px
+    }
+    .from{
+        color: green;
+    }
+    .buttonA{
+        background-color: 
+        #4CAF4F;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        padding: 
+        14px 32px 14px 32px;
+    }
+    .lessons{
+        font-size: 40px;
+    }
+    .where{
+        margin-top: -35px;
+        color: #717171;
+        font-size: 12px;
+    }
+    .sectionB{
+        margin: 40px 100px;
+    }
+    .iconA{
+        width: 65px;
+ }
+ .manage{
+    font-size: 20px;
+    text-align: center;
+ }
+ .membership{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+ }
+ .organisations{
+    padding: 30px;
+    align-items: center;
+ }
+ .national{
+    text-align: center;
+ }
+ .frame{
+    width: 442px;
+ }
+.sectionC{
+    display: flex;
+    margin: 40px 100px;
+    align-items: center;
+    gap: 100px;
+    justify-content: space-between;
+}
+.unseen{
+    font-size: 36px;
+}
+.Lorem{
+    font-size: 14px;
+}
+.sectionD{
+    display: flex;
+    gap: 300px;
+    align-items: center;
+    margin-top: 40px;
+    background-color: #F5F7FA;
+    padding: 
+    64px 144px 64px 144px;
+}
+.business{
+    color: green;
+}
+.reached{
+    font-size: 12px;
+    margin-top: -40px
+}
+.divA{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+.icons{
+    width: 48px;
+}
+.pana{
+    width: 441.53px
+}
+.iconD{
+    display: flex;
+    align-items: center;
+}
+.reinvent{
+    font-size: 50px;
+}
+.Event{
+    margin-top: -20px;
+}
+.sectionE{
+    display: flex;
+    margin-top: 60px;
+    gap: 150px;
+    
+}
+.donec{
+    padding: 30px;
+}
+.image{
+    width: 326px;
+}
+.sectionF{
+    display: flex;
+    gap: 150px;
+    margin-top: 80px;
+    padding: 32px 144px 32px 144px;
+    background-color: #F5F7FA;
+}
+.logo1{
+    width: 48px;
+}
+.logo2{
+    width: 48px;
+}
+.logo3{
+    width: 48px;
+}
+.logo4{ 
+    width: 48px;
+}
+.logo5{
+    width: 48px;
+}
+.logo6{
+    width: 48px;
+}
+.arrow{
+    width: 24px;
+}
+.tim{
+    color: #4CAF4F;
+}
+.classes{
+    align-items: center;
+}
+.meet{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.streamlined{
+    width: 368px;
+    height: 286px;
+}
+.gridcontainer{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr );
+    grid-gap: 20px;
+    padding: 0px 144px 0px 144px;
+}
+.more{ 
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: #4CAF4F;
+}
+.guard{
+    text-align: center;
+}
+.social{
+    align-items: center;
+    margin-top: 50px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    background-color: #263238;
+    padding: 65px;
+    color: white;
+    margin-top: 20px;
+}
+.logofooter{
+    width: 191px;
+}
+.send{
+    width: 18px;
+}
+.email{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.foot{
+    padding: 20px;
+}
+.path{
+    width: 32px;
+}
+.new{
+    font-size: 15px;
+    text-align: center;
+}
+.class{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.demo{
+    border: none;
+    border-radius: 6px;
+    background-color: 
+    #4CAF4F;
+    color: white;
+    padding: 14px, 32px, 14px, 32px;
+}
+.direct{
+    width: 16px;
+}
+.safeguard{
+    background-color: #F5F7FA;
+    padding: 20px;   
+}
+.div{ 
+    width:368px;
+}
+.reading{
+    text-align: center;
+}
+
+
+
+
