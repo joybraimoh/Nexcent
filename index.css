@@ -33,7 +33,7 @@ nav ul li{
         justify-content: space-between;
         align-items: center;
         background-color: #F5F7FA;
-        padding:  96px 144px 96px 144px;
+        padding:  30px 60px 30px 60px;
     }
     nav ul{
         display: flex;
@@ -48,7 +48,7 @@ nav ul li{
         margin-top: 0px;
         background-color: #F5F7FA;
         padding: 
-        96px 144px 96px 144px;
+        30px 60px 30px 60px;
     }
     .illustrationA{
         width: 391px
@@ -74,10 +74,11 @@ nav ul li{
         font-size: 12px;
     }
     .sectionB{
-        margin: 40px 100px;
+        margin: 40px 40px;
     }
     .iconA{
         width: 65px;
+        padding-left: 60px;
  }
  .manage{
     font-size: 20px;
@@ -86,21 +87,25 @@ nav ul li{
  .membership{
     display: flex;
     justify-content: space-between;
-    justify-items: center;
+    align-items: center;;
  }
  .organisations{
-    padding: 30px;
-    align-items: center;
+    padding: 80px;
  }
  .national{
+    font-size: 30px;
     text-align: center;
+ }
+ .nation{
+    text-align: center;
+    font-size: 12px;
  }
  .frame{
     width: 442px;
  }
 .sectionC{
     display: flex;
-    margin: 40px 100px;
+    margin: 40px 40px;
     align-items: center;
     gap: 100px;
     justify-content: space-between;
@@ -118,7 +123,7 @@ nav ul li{
     margin-top: 40px;
     background-color: #F5F7FA;
     padding: 
-    64px 144px 64px 144px;
+    64px 80px 64px 80px;
 }
 .business{
     color: green;
@@ -164,25 +169,10 @@ nav ul li{
     display: flex;
     gap: 150px;
     margin-top: 80px;
-    padding: 32px 144px 32px 144px;
+    padding: 32px 40px 32px 40px;
     background-color: #F5F7FA;
 }
 .logo1{
-    width: 48px;
-}
-.logo2{
-    width: 48px;
-}
-.logo3{
-    width: 48px;
-}
-.logo4{ 
-    width: 48px;
-}
-.logo5{
-    width: 48px;
-}
-.logo6{
     width: 48px;
 }
 .arrow{
@@ -269,14 +259,118 @@ nav ul li{
 }
 .safeguard{
     background-color: #F5F7FA;
-    padding: 20px;   
+    position: absolute;
+    top: 220px;
+    padding: 5px 16px;
+    margin: 0px 70px;
+    width: 200px;
 }
-.div{ 
-    width:368px;
+.stream{
+    text-align: center;
+    font-size: 10px;
+}
+.div{
+    position: relative;
 }
 .reading{
     text-align: center;
 }
+
+@media only screen and (max-width: 600px)
+{
+    .sectionA{
+        display: block;
+        padding-left: 30px;
+    }
+    .lessons{
+        font-size: 35px;
+    }
+    .where{
+        margin-top: 3px;
+    }
+.illustrationA{
+    width: 300px;
+    margin-top: 30px;
+}
+.membership{
+    display: block;
+}
+.organisations{
+    padding: 40px;
+}
+.sectionC{
+    display: block;
+}
+.frame{
+    width: 300px;
+}
+.sectionD{
+    display: block;
+}
+.divA{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.sectionE{
+    display: block;
+}
+.pana{
+    width: 350px;
+}
+.sectionF{
+    display: block;
+}
+.image{
+    width: 250px;
+}
+.meet{
+    display: flex;
+}
+.gridcontainer{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr );
+    padding: 30px;
+}
+.streamlined{
+    width: 250px;
+    height: 200px;
+}
+.safeguard{
+    width: 250px;
+    height: 200px;
+    padding: 0px;
+}
+.flex{
+    display: block;
+}
+.logo1{
+    width: 30px;
+}
+.national{
+    font-size: 20px;
+}
+.unseen{
+    font-size: 20px;
+}
+.reinvent{
+    font-size: 20px;
+}
+.reached{
+    margin-top: 20px;
+}
+.path{
+    width: 20px;
+}
+.sque{
+    font-size: 20px;
+}
+}
+    
+    
+
+
+
+
 
 
 
