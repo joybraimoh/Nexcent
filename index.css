@@ -196,14 +196,17 @@ nav ul li{
 .gridcontainer{
     display: grid;
     grid-template-columns: repeat(3, 2fr );
-    grid-gap: 20px;
-    padding: 0px 144px 0px 144px;
+    grid-gap: 10px;
 }
 .more{ 
     display: flex;
     gap: 10px;
     align-items: center;
     color: #4CAF4F;
+}
+.roe{
+    display: flex;
+    justify-content: center;
 }
 .guard{
     text-align: center;
@@ -230,6 +233,9 @@ nav ul li{
     display: flex;
     align-items: center;
     gap: 20px;
+}
+.sectional{
+    margin: 40px;
 }
 .foot{
     padding: 20px;
